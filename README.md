@@ -1,5 +1,6 @@
 # HOUSE4U
-This is a java web application for renting/buying appartments/houses 
+This is a java web application for renting/buying appartments/houses.
+!!!!!!!! This project was pushed based on Scrum method, so please check the branches. !!!!!!!!!!!
 
 ![WhatsApp Image 2022-05-22 at 16 28 58 (1)](https://user-images.githubusercontent.com/83608212/169703234-bf88182c-fcad-4c13-8f43-c17d9f177f8e.jpeg)
 
